@@ -17,7 +17,7 @@
 }
 </pre>
 
-<p> Fill in the following Google Form https://forms.gle/bXogePPeVcBHm5r88 and mail for the password with subject "WBMD Dataset" to <a href="mailto:your@email.com">kushalneo@gmail.com</a> </p>
+<p> Fill in the following Google Form https://forms.gle/bXogePPeVcBHm5r88 and mail for the password with subject "<B>WBMS Dataset</B><B>" to <a href="mailto:your@email.com">kushalneo@gmail.com</a> </p>
 
 <p>If you have any questions or need clarification, contact <a href="mailto:your@email.com">kushalneo@gmail.com</a>.</p>
 
