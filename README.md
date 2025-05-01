@@ -18,3 +18,24 @@ Users must agree to the following terms:
 4. If any ethical concerns arise, the user must notify the original authors.
 
 Contact: kushalneo@gmail.com
+
+<!-- Add this above or below the download link in thanks.html -->
+<h2>Responsible Use Terms</h2>
+<p>By downloading this dataset, you agree to the following conditions:</p>
+<ul>
+  <li>✅ You will use the dataset strictly for academic or research purposes.</li>
+  <li>🚫 You will not redistribute, republish, or share the dataset publicly.</li>
+  <li>📖 You will properly cite the following work in any publications:</li>
+</ul>
+
+<pre>
+@inproceedings{YourCitation2025,
+  title     = {Your Dataset Title},
+  author    = {Your Name and Coauthors},
+  booktitle = {Proceedings of the XYZ Conference},
+  year      = {2025}
+}
+</pre>
+
+<p>If you have any questions or need clarification, contact <a href="mailto:your@email.com">your@email.com</a>.</p>
+
