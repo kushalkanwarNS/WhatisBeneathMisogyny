@@ -17,5 +17,7 @@
 }
 </pre>
 
+<p> Fill in the following Google form before downloading the dataset to get the password: https://forms.gle/bXogePPeVcBHm5r88</p>
+
 <p>If you have any questions or need clarification, contact <a href="mailto:your@email.com">kushalneo@gmail.com</a>.</p>
 
