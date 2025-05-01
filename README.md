@@ -1,8 +1,5 @@
-Responsible Dataset Use Policy:
-Contact: 
-
 <!-- Add this above or below the download link in thanks.html -->
-<h2>Responsible Use Terms</h2>
+<h2>Responsible Datset Use Terms</h2>
 <p>By downloading this dataset, you agree to the following conditions:</p>
 <ul>
   <li>✅ You will use the dataset strictly for academic or research purposes.</li>
