@@ -4,7 +4,7 @@
 <ul>
   <li>✅ You will use the dataset strictly for academic or research purposes.</li>
   <li>🚫 You will not redistribute, republish, or share the dataset publicly.</li>
-  <li>📖 If you use this dataset or any relevent work from the paper then cite the following work:</li>
+  <li>📖 If you use this dataset or any relevant work from this paper, then cite the following work:</li>
 </ul>
 
 <pre>
