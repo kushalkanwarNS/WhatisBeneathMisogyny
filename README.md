@@ -1,9 +1,11 @@
 <!-- Add this above or below the download link in thanks.html -->
 <h2>Responsible Datset Use Terms</h2>
+<h2>What is Beneath Misogyny: Misogynous Memes Classification and Explanation</h2>
+
 <p>By downloading this dataset, you agree to the following conditions:</p>
 <ul>
   <li>✅ You will use the dataset strictly for academic or research purposes.</li>
-  <li>🚫 You will not redistribute, republish, or share the dataset publicly.</li>
+  <li>🚫 You will not publicly redistribute, republish, or share the dataset.</li>
   <li>📖 If you use this dataset or any relevant work from this paper, then cite the following work:</li>
 </ul>
 
