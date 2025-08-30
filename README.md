@@ -21,7 +21,7 @@
 }
 </pre>
 
-<p> Fill in the following Google Form https://forms.gle/bXogePPeVcBHm5r88 and mail for the password (to unzip dataset folders) with subject "<B>WBMS Dataset</B>" to <a href="mailto:your@email.com">kushalneo@gmail.com</a> </p>
+<p> E-mail me with subject "<B>WBMS Dataset</B>" to <a href="mailto:your@email.com">kushalneo@gmail.com</a> to get the password for the dataset folder and mention in a statement that you will abide by the eithical guidelines and don't redistribute the dataset.</p>
 
 <p>If you have any questions or need clarification, contact <a href="mailto:your@email.com">kushalneo@gmail.com</a>.</p>
 
