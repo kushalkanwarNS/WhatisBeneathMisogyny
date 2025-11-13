@@ -11,12 +11,14 @@
   <li>📖 If you use this dataset or any relevant work from this paper, then cite the following work:</li>
 </ul>
 
+<a href="https://www.ijcai.org/proceedings/2025/1083.pdf">Paper Link</p>
+
 <pre>
 @inproceedings{kanwar2024,
   title={What is Beneath Misogyny: Misogynous Memes Classification and Explanation},
   author={Kanwar, Kushal and Singh, Gopendra Vikram and Chuhan, Dushyant and Ekbal, Asif},
   booktitle={Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence},
-  pages={},
+  pages={9746-9753},
   year={2025}
 }
 </pre>
@@ -24,4 +26,6 @@
 <p> E-mail me with subject "<B>WBMS Dataset</B>" to <a href="mailto:your@email.com">kushalneo@gmail.com</a> to get the password for the dataset folder and mention in a statement that you will abide by the eithical guidelines and don't redistribute the dataset.</p>
 
 <p>If you have any questions or need clarification, contact <a href="mailto:your@email.com">kushalneo@gmail.com</a>.</p>
+
+
 
